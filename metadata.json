@@ -1,0 +1,20 @@
+{
+  "pub_key": "BLS_VER_KEY~VhHMtmDNOCzMYk2lYOdj0N_QzXbiP0J3A0dAI3mzYRr-zldN6AvfSaJomzaqtubUR7rvX9k7k4W5NM3vIjbME_e2AJVviDsxwaXS-krVl0PhgC9DMkO3Gn1X5ap7wGgrPcAvbf9TER2QVxiq_7PicFpMv-6SeH6bgEk8u9t95AzM",
+  "name": "Forest Staking",
+  "description": "",
+  "company_name": "Forest Staking",
+  "company_website": "https://foreststaking.com",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/ForestStaking/Forest_Staking_Logo/refs/heads/main/Forest_Staking_Logo_main.jpg",
+      "@2x": "https://raw.githubusercontent.com/ForestStaking/Forest_Staking_Logo/refs/heads/main/Forest_Staking_Logo_main.jpg",
+      "@3x": "https://raw.githubusercontent.com/ForestStaking/Forest_Staking_Logo/refs/heads/main/Forest_Staking_Logo_main.jpg"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/ForestStaking/Forest_Staking_Logo/refs/heads/main/Forest_Staking_Logo_main.jpg",
+      "@2x": "https://raw.githubusercontent.com/ForestStaking/Forest_Staking_Logo/refs/heads/main/Forest_Staking_Logo_main.jpg",
+      "@3x": "https://raw.githubusercontent.com/ForestStaking/Forest_Staking_Logo/refs/heads/main/Forest_Staking_Logo_main.jpg"
+    }
+  }
+}
